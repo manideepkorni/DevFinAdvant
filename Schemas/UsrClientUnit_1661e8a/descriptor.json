@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "00ac79bd-bb28-4791-8338-3de9e38feef7",
+    "Name": "UsrClientUnit_1661e8a",
+    "ModifiedOnUtc": "\/Date(1665572798000)\/",
+    "Parent": {
+      "UId": "5826ff24-46c6-4169-9223-2aaad9ec2e18",
+      "Name": "BasePageSimpleProcessTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Assign the Agent",
+    "DependsOn": []
+  }
+}

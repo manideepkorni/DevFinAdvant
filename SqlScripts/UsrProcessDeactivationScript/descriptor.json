@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "25f557df-efde-5155-3800-91a812c1b349",
+    "Name": "UsrProcessDeactivationScript",
+    "DBEngineType": 2,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1665554858000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}

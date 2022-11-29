@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "95716dc1-0cdb-44c6-9815-7ca8c2199d90",
+    "Name": "UsrLeadOpportunitySubStages",
+    "ModifiedOnUtc": "\/Date(1669110850000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Lead Opportunity SubStages",
+    "DependsOn": []
+  }
+}

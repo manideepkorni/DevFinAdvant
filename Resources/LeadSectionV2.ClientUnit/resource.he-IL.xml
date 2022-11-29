@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Section schema: &quot;Leads&quot;" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="הפניות" />
+			<Item Name="LocalizableStrings.ConfigureLeadTypes.Value" Value="הגדר את צרכי הלקוח" />
+			<Item Name="LocalizableStrings.DisqualificationButtonCaption.Value" Value="פסול" />
+			<Item Name="LocalizableStrings.GenerateReportWithoutFiltersConfirmationMessage.Value" Value="הדו&quot;ח יופק עבור כל הרשומות במודול, בלי פילטרים. האם אתה מעוניין להמשיך?" />
+			<Item Name="LocalizableStrings.LeadScoredBody.Value" Value="Predictive lead score is {0}" />
+			<Item Name="LocalizableStrings.LeadScoredTitle.Value" Value="הפניה &quot;{0}&quot;" />
+			<Item Name="LocalizableStrings.QualifyStatusDistributionCaption.Value" Value="הפצה" />
+			<Item Name="LocalizableStrings.QualifyStatusQualificationCaption.Value" Value="הכשרה" />
+			<Item Name="LocalizableStrings.QualifyStatusTranslationForSaleCaption.Value" Value="המשך למסירה" />
+			<Item Name="LocalizableStrings.ScoreLeadActionCaption.Value" Value="Evaluate predictive score" />
+			<Item Name="LocalizableStrings.ScoreLeadActionGeneralErrorMessage.Value" Value="הפעולה הסתיימה בכישלון. תוכל למצוא פרטים ביומן היישומים" />
+			<Item Name="LocalizableStrings.ScoreLeadActionNoModelsErrorMessage.Value" Value="אין מודל חיזוי ניקוד הפניות זמין" />
+		</Items>
+	</Group>
+</Resources>

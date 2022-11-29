@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="Images.704490f4-6b1c-42af-ad1e-d09516048d65.Caption" Value="Obrázek 2SimilarAccountsButtonImage" />
+			<Item Name="Images.ac59959c-5ce3-4de6-ac2b-e34847f49a9b.Caption" Value="SearchInternetButtonImage" />
+			<Item Name="Images.dfc52eca-5c10-47a7-8264-89905a1f5b14.Caption" Value="SimilarContactsButtonImage" />
+			<Item Name="LocalizableStrings.AccountActivityDetailV2DetailCaptionOnPage.Value" Value="Aktivity na účtu" />
+			<Item Name="LocalizableStrings.AccountAddressDetailDetailCaptionOnPage.Value" Value="Adresy účtu" />
+			<Item Name="LocalizableStrings.AccountCallDetailDetailCaptionOnPage.Value" Value="Hovory účtu" />
+			<Item Name="LocalizableStrings.AccountCategoryCaption.Value" Value="Kategorie" />
+			<Item Name="LocalizableStrings.AccountNameCaption.Value" Value="Název firmy" />
+			<Item Name="LocalizableStrings.AccountOwnershipCaption.Value" Value="Právní forma" />
+			<Item Name="LocalizableStrings.AddressCaption.Value" Value="Adresa" />
+			<Item Name="LocalizableStrings.AddressTypeCaption.Value" Value="Typ adresy" />
+			<Item Name="LocalizableStrings.AnnualRevenueCaption.Value" Value="Roční obrat" />
+			<Item Name="LocalizableStrings.BlankSlateDescription.Value" Value="Váš prohlížeč není podporován. Pro práci s historií kontaktních událostí použijte Chrome, Safari nebo Firefox" />
+			<Item Name="LocalizableStrings.BusinesPhoneCaption.Value" Value="Pracovní telefon" />
+			<Item Name="LocalizableStrings.ButtonLoadMoreCaption.Value" Value="Načíst více" />
+			<Item Name="LocalizableStrings.CallDetail130d2d62DetailCaptionOnPage.Value" Value="Hovory" />
+			<Item Name="LocalizableStrings.CallDetailDetailCaptionOnPage.Value" Value="Hovory" />
+			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="Odložit do" />
+			<Item Name="LocalizableStrings.CityCaption.Value" Value="Město" />
+			<Item Name="LocalizableStrings.CityStrCaption.Value" Value="Město" />
+			<Item Name="LocalizableStrings.ColumnNameCostCaption.Value" Value="Náklady" />
+			<Item Name="LocalizableStrings.ColumnNameDateTimeCaption.Value" Value="Datum Čas" />
+			<Item Name="LocalizableStrings.ColumnNameEventTypeCaption.Value" Value="Typ události" />
+			<Item Name="LocalizableStrings.ColumnNameNameCaption.Value" Value="Název" />
+			<Item Name="LocalizableStrings.ColumnNameValueCaption.Value" Value="Hodnota" />
+			<Item Name="LocalizableStrings.ContactActivityDetailV2DetailCaptionOnPage.Value" Value="Kontaktní aktivity" />
+			<Item Name="LocalizableStrings.ContactAddressDetailDetailCaptionOnPage.Value" Value="Kontaktní adresy" />
+			<Item Name="LocalizableStrings.ContactAddressDetailV2DetailCaptionOnPage.Value" Value="Kontaktní adresy" />
+			<Item Name="LocalizableStrings.ContactCallDetailV2DetailCaptionOnPage.Value" Value="Kontaktní hovory" />
+			<Item Name="LocalizableStrings.ContactCaption.Value" Value="Jméno kontaktu" />
+			<Item Name="LocalizableStrings.ContactCommunicationDetailDetailCaptionOnPage.Value" Value="Možnosti komunikace" />
+			<Item Name="LocalizableStrings.ContactCommunicationDetailV2DetailCaptionOnPage.Value" Value="Možnosti komunikace" />
+			<Item Name="LocalizableStrings.CountryCaption.Value" Value="Stát" />
+			<Item Name="LocalizableStrings.CountryStrCaption.Value" Value="Stát" />
+			<Item Name="LocalizableStrings.DearCaption.Value" Value="Jméno příjemce" />
+			<Item Name="LocalizableStrings.DecisionRoleCaption.Value" Value="Role" />
+			<Item Name="LocalizableStrings.DepartmentCaption.Value" Value="Oddělení" />
+			<Item Name="LocalizableStrings.DisqualificationButtonCaption.Caption" Value="DisqualificationButtonCaption" />
+			<Item Name="LocalizableStrings.DisqualificationButtonCaption.Value" Value="Diskvalifikovat" />
+			<Item Name="LocalizableStrings.EmailCaption.Value" Value="E-mail" />
+			<Item Name="LocalizableStrings.EmailDetailV2d142390eDetailCaptionOnPage.Value" Value="E-mail" />
+			<Item Name="LocalizableStrings.EmailDetailV2DetailCaptionOnPage.Value" Value="Email" />
+			<Item Name="LocalizableStrings.EmployeesNumberCaption.Value" Value="Počet zaměstnanců" />
+			<Item Name="LocalizableStrings.ExtendedLeadInformationDetailDetailCaptionOnPage.Value" Value="Rozšířené informace o potenciálních zákaznících" />
+			<Item Name="LocalizableStrings.FaxCaption.Value" Value="Fax" />
+			<Item Name="LocalizableStrings.FullJobTitleCaption.Value" Value="Cely nazev funkce" />
+			<Item Name="LocalizableStrings.GenderCaption.Value" Value="Pohlaví" />
+			<Item Name="LocalizableStrings.IndustryCaption.Value" Value="Hlavní čínnost" />
+			<Item Name="LocalizableStrings.JobCaption.Value" Value="Funkce" />
+			<Item Name="LocalizableStrings.LabelLoadingCaption.Value" Value="Probíhá načítání dat. To může trvat několik sekund." />
+			<Item Name="LocalizableStrings.LabelNoDataCaption.Value" Value="K tomuto záznamu neexistují žádné webové události." />
+			<Item Name="LocalizableStrings.LeadGenExtendedLeadInformationDetailDetailCaptionOnPage.Value" Value="Rozšířené informace o potenciálních zákaznících" />
+			<Item Name="LocalizableStrings.LeadPageAccountInfoCaption.Value" Value="Info o firmě" />
+			<Item Name="LocalizableStrings.LeadPageContactInfoCaption.Value" Value="Základní informace" />
+			<Item Name="LocalizableStrings.LeadPageDistributionInfoCaption.Value" Value="Přidělení leadu" />
+			<Item Name="LocalizableStrings.LeadPageGeneralTabContainerCaption.Value" Value="Detaily leadu" />
+			<Item Name="LocalizableStrings.LeadPageMQLTabTabCaption.Value" Value="MQL" />
+			<Item Name="LocalizableStrings.LeadPageNeedValidationBlockCaption.Value" Value="Potřebuje se ověření" />
+			<Item Name="LocalizableStrings.LeadPageNeedValidationInfo.Value" Value="Pravděpodobně některá z polí na webovém formuláři byla vyplněna chybně. Zkuste opravit chybu nebo přidejte nové číselníkové hodnoty." />
+			<Item Name="LocalizableStrings.LeadPageSQLTabOpportunityPlanningGroupGroupCaption.Value" Value="Plánování příležitostí" />
+			<Item Name="LocalizableStrings.LeadPageSQLTabTabCaption.Value" Value="SQL" />
+			<Item Name="LocalizableStrings.LeadPageTransferToSaleInfoCaption.Value" Value="Zahájení prodeje" />
+			<Item Name="LocalizableStrings.LeadProductDetailV241d7605eDetailCaptionOnPage.Value" Value="Produkty" />
+			<Item Name="LocalizableStrings.LeadProductDetailV2DetailCaptionOnPage.Value" Value="Produkty" />
+			<Item Name="LocalizableStrings.LeadSpecificationDetailDetailCaptionOnPage.Value" Value="Funkce" />
+			<Item Name="LocalizableStrings.LeadsSimilarSearchResultDetailDetailCaptionOnPage.Value" Value="Podobné leady" />
+			<Item Name="LocalizableStrings.MobilePhoneCaption.Value" Value="Mobilní telefon" />
+			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="Více prvku ve frontě bylo propojeno na proces. Id procesu: {0}" />
+			<Item Name="LocalizableStrings.NeedInfoTabCaption.Value" Value="Detaily zájmu" />
+			<Item Name="LocalizableStrings.OpportunityHistoryActivityDetail802203a9DetailCaptionOnPage.Value" Value="Aktivity" />
+			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Znovu zařadit do fronty" />
+			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="Nelze znovu zařadit do fronty. Chybová zpráva: {0}" />
+			<Item Name="LocalizableStrings.PredictiveScoreNotEvaluatedCaption.Value" Value="není vyhodnoceno" />
+			<Item Name="LocalizableStrings.PredictiveScoreTip.Value" Value="Pravděpodobnost konverze potenciálních zákazníků na základě historických vzorců a údajů o potenciálních zákaznících v reálném čase. &lt;a href=&quot;#&quot; data-context-help-id=&quot;1863&quot; &gt;Detaily...&lt;/a&gt;" />
+			<Item Name="LocalizableStrings.PropertyBrowserCaption.Value" Value="Prohlížeč" />
+			<Item Name="LocalizableStrings.PropertyColorDepthCaption.Value" Value="Hloubka barev" />
+			<Item Name="LocalizableStrings.PropertyDisplayCaption.Value" Value="Zobrazit" />
+			<Item Name="LocalizableStrings.PropertyLanguageCaption.Value" Value="Jazyk" />
+			<Item Name="LocalizableStrings.PropertyLanguagesCaption.Value" Value="Jazyky" />
+			<Item Name="LocalizableStrings.PropertyPageUrlCaption.Value" Value="URL stránky" />
+			<Item Name="LocalizableStrings.PropertyPixelDepthCaption.Value" Value="Hloubka pixelů" />
+			<Item Name="LocalizableStrings.PropertyPlatformCaption.Value" Value="Platforma" />
+			<Item Name="LocalizableStrings.PropertyRefererCaption.Value" Value="Referent" />
+			<Item Name="LocalizableStrings.PropertyScreenAvailCaption.Value" Value="Dostupnost obrazovky" />
+			<Item Name="LocalizableStrings.QualifiedAccountCaption.Value" Value="Firma" />
+			<Item Name="LocalizableStrings.QualifiedContactCaption.Value" Value="Kontakt" />
+			<Item Name="LocalizableStrings.QualifyStatusDistributionCaption.Value" Value="Přidělit" />
+			<Item Name="LocalizableStrings.QualifyStatusInLeadDetailV24128dc5aDetailCaptionOnPage.Value" Value="Fáze" />
+			<Item Name="LocalizableStrings.QualifyStatusQualificationCaption.Value" Value="Kvalifikovat" />
+			<Item Name="LocalizableStrings.QualifyStatusTranslationForSaleCaption.Value" Value="Zahájit prodej" />
+			<Item Name="LocalizableStrings.QueueItemIsEmptyError.Value" Value="Stránka není napojená na prvek ve frontě agentského desktopu. Akce byla zrušena." />
+			<Item Name="LocalizableStrings.QueueItemPostponeFailedMessage.Value" Value="Nelze znovu zařadit do fronty" />
+			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="Znovu zařazen do fronty úspěšně" />
+			<Item Name="LocalizableStrings.RegionCaption.Value" Value="Kraj" />
+			<Item Name="LocalizableStrings.RegionStrCaption.Value" Value="Kraj" />
+			<Item Name="LocalizableStrings.RequiredFieldsMessage.Value" Value="Vyplňte prosím buď pole &quot;Kontakt&quot; nebo pole &quot;Firma&quot;" />
+			<Item Name="LocalizableStrings.SearchAccountInGoogleNotEnoughInfoMessage.Value" Value="Chcete-li vyhledávat na Googlu, musíte vyplnit pole „Název účtu“" />
+			<Item Name="LocalizableStrings.SearchAccountInLinkedInNotEnoughInfoMessage.Value" Value="Chcete-li vyhledávat na LinkedIn, měli byste vyplnit pole „Název účtu“" />
+			<Item Name="LocalizableStrings.SearchContactInFacebookNotEnoughInfoMessage.Value" Value="Chcete-li hledat na Facebooku, musíte zadat Email" />
+			<Item Name="LocalizableStrings.SearchContactInLinkedInNotEnoughInfoMessage.Value" Value="Chcete-li vyhledávat na LinkedIn, měli byste vyplnit alespoň jedno z polí „Jméno kontaktu“, „Název účtu“" />
+			<Item Name="LocalizableStrings.SearchFacebook.Value" Value="Hledat na Facebooku" />
+			<Item Name="LocalizableStrings.SearchGoogle.Value" Value="Vyhledávání ve službě Google" />
+			<Item Name="LocalizableStrings.SearchLinkedIn.Value" Value="Hledat v LinkedInu" />
+			<Item Name="LocalizableStrings.ShowTrackingDataCaption.Value" Value="Zobrazit data sledování" />
+			<Item Name="LocalizableStrings.SimilarAccountsButtonFoundHintText.Caption" Value="SimilarAccountsButtonFoundHintText" />
+			<Item Name="LocalizableStrings.SimilarAccountsButtonFoundHintText.Value" Value="Potřebuje se text." />
+			<Item Name="LocalizableStrings.SimilarAccountsButtonNotFoundHintText.Caption" Value="SimilarAccountsButtonNotFoundHintText" />
+			<Item Name="LocalizableStrings.SimilarAccountsButtonNotFoundHintText.Value" Value="Nebyly nalezeny žádné firmy, jichž lze propojit s tímto leadem." />
+			<Item Name="LocalizableStrings.SimilarContactsButtonFoundHintText.Caption" Value="SimilarContactsButtonFoundHintText" />
+			<Item Name="LocalizableStrings.SimilarContactsButtonFoundHintText.Value" Value="Potřebuje se text." />
+			<Item Name="LocalizableStrings.SimilarContactsButtonNotFoundHintText.Caption" Value="SimilarContactsButtonNotFoundHintText" />
+			<Item Name="LocalizableStrings.SimilarContactsButtonNotFoundHintText.Value" Value="Nebyly nalezeny žádné kontakty, které lze propojit s tímto zájmem." />
+			<Item Name="LocalizableStrings.SiteEventDetailV23f8ee442DetailCaptionOnPage.Value" Value="Událostí na web stránce" />
+			<Item Name="LocalizableStrings.SourceGroupCaption.Value" Value="Správa leadu" />
+			<Item Name="LocalizableStrings.TitleCaption.Value" Value="Popisek" />
+			<Item Name="LocalizableStrings.TrackingEventsTabCaption.Value" Value="Události na webových stránkách" />
+			<Item Name="LocalizableStrings.VwLeadToOpportunityLogTableViewDetailCaptionOnPage.Value" Value="Objekt" />
+			<Item Name="LocalizableStrings.WebsiteCaption.Value" Value="Web" />
+			<Item Name="LocalizableStrings.ZipCaption.Value" Value="PSČ" />
+		</Items>
+	</Group>
+</Resources>

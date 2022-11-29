@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ConditionalSequenceFlow2.Caption" Value="false" />
+			<Item Name="BaseElements.ConditionalSequenceFlow3.Caption" Value="true" />
+			<Item Name="BaseElements.ScriptTask1.Caption" Value="Read Leadids " />
+			<Item Name="BaseElements.ScriptTask2.Caption" Value="Loop leadids" />
+			<Item Name="BaseElements.StartTimerEvent1.Caption" Value="triggers at 12am daily" />
+			<Item Name="BaseElements.SubProcess1.Caption" Value="Send Notification to Lead Owner " />
+			<Item Name="BaseElements.SubProcess1.Parameters.Continue.Caption" Value="Continue" />
+			<Item Name="BaseElements.SubProcess1.Parameters.LastModifiedDate.Caption" Value="LastModifiedDate" />
+			<Item Name="BaseElements.SubProcess1.Parameters.LeadId.Caption" Value="LeadId" />
+			<Item Name="BaseElements.SubProcess1.Parameters.LeadId.DisplayValue" Value="[#LeadId#]" />
+			<Item Name="Caption" Value="Leads to send notification on stage update" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.Continue.Caption" Value="Continue" />
+			<Item Name="Parameters.LeadId.Caption" Value="LeadId" />
+			<Item Name="Parameters.LeadList.Caption" Value="LeadList" />
+		</Items>
+	</Group>
+</Resources>

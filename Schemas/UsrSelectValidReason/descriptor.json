@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "7342ef62-e183-40e7-9bb1-6237a053cd87",
+    "Name": "UsrSelectValidReason",
+    "ModifiedOnUtc": "\/Date(1667986458000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Select Valid Reason - Lead",
+    "DependsOn": []
+  }
+}

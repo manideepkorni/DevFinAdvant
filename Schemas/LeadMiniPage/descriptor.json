@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "04868fab-1e3c-4b36-b026-3f94ad7d49b3",
+    "Name": "LeadMiniPage",
+    "ModifiedOnUtc": "\/Date(1669208819000)\/",
+    "Parent": {
+      "UId": "a6bcff3c-0159-4547-b143-0b69cf303bd2",
+      "Name": "LeadMiniPage"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "LeadMiniPage",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Giản đồ phần: &quot;Leads&quot;" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Leads" />
+			<Item Name="LocalizableStrings.ConfigureLeadTypes.Value" Value="Cài đặt các nhu cầu của khách hàng" />
+			<Item Name="LocalizableStrings.DisqualificationButtonCaption.Value" Value="Không đủ điều kiện" />
+			<Item Name="LocalizableStrings.GenerateReportWithoutFiltersConfirmationMessage.Value" Value="Báo cáo sẽ được tạo cho tất cả các bản ghi trong phần, không có bộ lọc. Bạn có muốn tiếp tục?" />
+			<Item Name="LocalizableStrings.LeadScoredBody.Value" Value="Điểm dự đoán của lead là {0}" />
+			<Item Name="LocalizableStrings.LeadScoredTitle.Value" Value="Lead &quot;{0}&quot;" />
+			<Item Name="LocalizableStrings.QualifyStatusDistributionCaption.Value" Value="Phân phát" />
+			<Item Name="LocalizableStrings.QualifyStatusQualificationCaption.Value" Value="Đủ điều kiện" />
+			<Item Name="LocalizableStrings.QualifyStatusTranslationForSaleCaption.Value" Value="Tiến hành bàn giao" />
+			<Item Name="LocalizableStrings.ScoreLeadActionCaption.Value" Value="Đánh giá điểm dự đoán" />
+			<Item Name="LocalizableStrings.ScoreLeadActionGeneralErrorMessage.Value" Value="Hành động đã kết thúc với thất bại. Bạn có thể tìm thấy chi tiết trong nhật ký ứng dụng" />
+			<Item Name="LocalizableStrings.ScoreLeadActionNoModelsErrorMessage.Value" Value="Không có mô hình tính điểm khách hàng tiềm năng dự đoán nào đang có sẵn" />
+		</Items>
+	</Group>
+</Resources>

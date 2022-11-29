@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "dbc0dd97-7f35-48c1-8164-fa10ea4ed956",
+    "Name": "UsrClientUnit_ffa3164",
+    "ModifiedOnUtc": "\/Date(1667989433000)\/",
+    "Parent": {
+      "UId": "5826ff24-46c6-4169-9223-2aaad9ec2e18",
+      "Name": "BasePageSimpleProcessTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Choose the reason",
+    "DependsOn": []
+  }
+}

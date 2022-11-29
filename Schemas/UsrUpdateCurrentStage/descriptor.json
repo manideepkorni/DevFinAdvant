@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "44b03ba8-4c94-4a5f-9330-411fd19995e7",
+    "Name": "UsrUpdateCurrentStage",
+    "ModifiedOnUtc": "\/Date(1663859526000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Update Current Stage",
+    "DependsOn": []
+  }
+}

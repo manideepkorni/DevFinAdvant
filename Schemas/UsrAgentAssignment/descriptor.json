@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "c0b4ac41-137e-4ee2-bf4a-db513b10f46f",
+    "Name": "UsrAgentAssignment",
+    "ModifiedOnUtc": "\/Date(1665582159000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Agent Assignment",
+    "DependsOn": []
+  }
+}

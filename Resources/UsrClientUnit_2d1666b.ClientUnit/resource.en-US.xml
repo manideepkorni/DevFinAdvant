@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Choose the stage and reason " />
+			<Item Name="LocalizableStrings.LOOKUP168cd16426794f1a811f2aca8e280e7aTip.Value" Value="Select a valid reason" />
+			<Item Name="LocalizableStrings.LOOKUP3fbb01399fae419b8d6d57c6f4e8ea70Tip.Value" Value="Select a valid reason" />
+			<Item Name="LocalizableStrings.STRING7e8854e2610e44d9aea641ce4e3c40bdTip.Value" Value="Provide the comments for the reason" />
+			<Item Name="Parameters.17a6a225-e52e-4765-9a4c-141611516d13.Caption" Value="Reason" />
+			<Item Name="Parameters.3b8ce21d-a42f-4525-a56b-1704223b43f4.Caption" Value="Comments" />
+			<Item Name="Parameters.6255bbde-e7af-4b85-93bb-a42d294a4b62.Caption" Value="Main Stage Values" />
+			<Item Name="Parameters.8e64bd47-34c6-490d-94b3-2ada07523718.Caption" Value="Stage" />
+			<Item Name="Parameters.c49bd85e-159a-49ee-b10a-3c3bca63d7d5.Value.c4841740-ff8c-406f-8626-1c78f78608bf.Caption" Value="Close" />
+			<Item Name="Parameters.c49bd85e-159a-49ee-b10a-3c3bca63d7d5.Value.f073e66a-36ec-47d7-9c6a-e5952dbf05a3.Caption" Value="Save" />
+		</Items>
+	</Group>
+</Resources>

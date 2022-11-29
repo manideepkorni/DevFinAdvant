@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "25a7e91c-2e19-45fd-ad73-bf218bcba597",
+    "Name": "UsrTurnover",
+    "ModifiedOnUtc": "\/Date(1669110850000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Turnover",
+    "DependsOn": []
+  }
+}

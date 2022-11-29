@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Schéma sekce: &quot;obchodní příležitosti&quot;" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Obchodní příležitosti" />
+			<Item Name="LocalizableStrings.ConfigureLeadTypes.Value" Value="Nastavte potřeby zákazníků" />
+			<Item Name="LocalizableStrings.DisqualificationButtonCaption.Value" Value="Diskvalifikovat" />
+			<Item Name="LocalizableStrings.GenerateReportWithoutFiltersConfirmationMessage.Value" Value="Report bude vygenerován pro všechny záznamy v sekci, bez filtrů. Přejete si pokračovat?" />
+			<Item Name="LocalizableStrings.LeadScoredBody.Value" Value="Prediktivní skóre potenciálního zákazníka je {0}" />
+			<Item Name="LocalizableStrings.LeadScoredTitle.Value" Value="Potenciální zákazník „{0}“" />
+			<Item Name="LocalizableStrings.QualifyStatusDistributionCaption.Value" Value="Distribuovat" />
+			<Item Name="LocalizableStrings.QualifyStatusQualificationCaption.Value" Value="Kvalifikovat" />
+			<Item Name="LocalizableStrings.QualifyStatusTranslationForSaleCaption.Value" Value="Pokračovat v předání" />
+			<Item Name="LocalizableStrings.ScoreLeadActionCaption.Value" Value="Vyhodnoťte prediktivní skóre" />
+			<Item Name="LocalizableStrings.ScoreLeadActionGeneralErrorMessage.Value" Value="Akce byla ukončena neúspěchem. Podrobnosti najdete v logu aplikace" />
+			<Item Name="LocalizableStrings.ScoreLeadActionNoModelsErrorMessage.Value" Value="Nejsou k dispozici žádné prediktivní modely hodnocení potenciálních zákazníků" />
+		</Items>
+	</Group>
+</Resources>

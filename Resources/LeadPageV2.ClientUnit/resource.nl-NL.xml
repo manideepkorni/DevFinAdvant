@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Images.704490f4-6b1c-42af-ad1e-d09516048d65.Caption" Value="Image 2SimilarAccountsButtonImage" />
+			<Item Name="Images.ac59959c-5ce3-4de6-ac2b-e34847f49a9b.Caption" Value="SearchInternetButtonImage" />
+			<Item Name="Images.dfc52eca-5c10-47a7-8264-89905a1f5b14.Caption" Value="SimilarContactsButtonImage" />
+			<Item Name="LocalizableStrings.AccountActivityDetailV2DetailCaptionOnPage.Value" Value="Account activities" />
+			<Item Name="LocalizableStrings.AccountAddressDetailDetailCaptionOnPage.Value" Value="Account addresses" />
+			<Item Name="LocalizableStrings.AccountCallDetailDetailCaptionOnPage.Value" Value="Account calls" />
+			<Item Name="LocalizableStrings.AccountCategoryCaption.Value" Value="Categorie" />
+			<Item Name="LocalizableStrings.AccountNameCaption.Value" Value="Accountnaam" />
+			<Item Name="LocalizableStrings.AccountOwnershipCaption.Value" Value="Bedrijfsentiteit" />
+			<Item Name="LocalizableStrings.AddressCaption.Value" Value="Adres" />
+			<Item Name="LocalizableStrings.AddressTypeCaption.Value" Value="Adrestype" />
+			<Item Name="LocalizableStrings.AnnualRevenueCaption.Value" Value="Jaarlijkse omzet" />
+			<Item Name="LocalizableStrings.BlankSlateDescription.Value" Value="Uw Browser wordt niet Ondersteund. Gebruik Chrome, Safari of Firefox om te werken met de geschiedenis van de contactgebeurtenis" />
+			<Item Name="LocalizableStrings.BusinesPhoneCaption.Value" Value="Bedrijfstelefoon" />
+			<Item Name="LocalizableStrings.ButtonLoadMoreCaption.Value" Value="Load more" />
+			<Item Name="LocalizableStrings.CallDetail130d2d62DetailCaptionOnPage.Value" Value="Gesprekken" />
+			<Item Name="LocalizableStrings.CallDetailDetailCaptionOnPage.Value" Value="Calls" />
+			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="Uitstellen tot" />
+			<Item Name="LocalizableStrings.CityCaption.Value" Value="Plaats" />
+			<Item Name="LocalizableStrings.CityStrCaption.Value" Value="Plaats" />
+			<Item Name="LocalizableStrings.ColumnNameCostCaption.Value" Value="Kosten" />
+			<Item Name="LocalizableStrings.ColumnNameDateTimeCaption.Value" Value="Datum Tijd" />
+			<Item Name="LocalizableStrings.ColumnNameEventTypeCaption.Value" Value="Evenement Type" />
+			<Item Name="LocalizableStrings.ColumnNameNameCaption.Value" Value="Naam" />
+			<Item Name="LocalizableStrings.ColumnNameValueCaption.Value" Value="Waarde" />
+			<Item Name="LocalizableStrings.ContactActivityDetailV2DetailCaptionOnPage.Value" Value="Contact activities" />
+			<Item Name="LocalizableStrings.ContactAddressDetailDetailCaptionOnPage.Value" Value="Contact addresses" />
+			<Item Name="LocalizableStrings.ContactAddressDetailV2DetailCaptionOnPage.Value" Value="Contact addresses" />
+			<Item Name="LocalizableStrings.ContactCallDetailV2DetailCaptionOnPage.Value" Value="Contact calls" />
+			<Item Name="LocalizableStrings.ContactCaption.Value" Value="Naam relatie" />
+			<Item Name="LocalizableStrings.ContactCommunicationDetailDetailCaptionOnPage.Value" Value="Communication options" />
+			<Item Name="LocalizableStrings.ContactCommunicationDetailV2DetailCaptionOnPage.Value" Value="Communication options" />
+			<Item Name="LocalizableStrings.CountryCaption.Value" Value="Land" />
+			<Item Name="LocalizableStrings.CountryStrCaption.Value" Value="Land" />
+			<Item Name="LocalizableStrings.DearCaption.Value" Value="Naam ontvanger" />
+			<Item Name="LocalizableStrings.DecisionRoleCaption.Value" Value="Rol" />
+			<Item Name="LocalizableStrings.DepartmentCaption.Value" Value="Afdeling" />
+			<Item Name="LocalizableStrings.DisqualificationButtonCaption.Caption" Value="DisqualificationButtonCaption" />
+			<Item Name="LocalizableStrings.DisqualificationButtonCaption.Value" Value="Diskwalificeren" />
+			<Item Name="LocalizableStrings.EmailCaption.Value" Value="E-mail" />
+			<Item Name="LocalizableStrings.EmailDetailV2d142390eDetailCaptionOnPage.Value" Value="E-mail" />
+			<Item Name="LocalizableStrings.EmailDetailV2DetailCaptionOnPage.Value" Value="Email" />
+			<Item Name="LocalizableStrings.EmployeesNumberCaption.Value" Value="Aantal medewerkers" />
+			<Item Name="LocalizableStrings.ExtendedLeadInformationDetailDetailCaptionOnPage.Value" Value="Uitgebreide leadinformatie" />
+			<Item Name="LocalizableStrings.FaxCaption.Value" Value="Fax" />
+			<Item Name="LocalizableStrings.FullJobTitleCaption.Value" Value="Volledige functienaam" />
+			<Item Name="LocalizableStrings.GenderCaption.Value" Value="Geslacht" />
+			<Item Name="LocalizableStrings.IndustryCaption.Value" Value="Industrie" />
+			<Item Name="LocalizableStrings.JobCaption.Value" Value="Functietitel" />
+			<Item Name="LocalizableStrings.LabelLoadingCaption.Value" Value="Er worden gegevens geladen. Dit kan enkele seconden duren." />
+			<Item Name="LocalizableStrings.LabelNoDataCaption.Value" Value="There are no website events for this record." />
+			<Item Name="LocalizableStrings.LeadGenExtendedLeadInformationDetailDetailCaptionOnPage.Value" Value="Uitgebreide leadinformatie" />
+			<Item Name="LocalizableStrings.LeadPageAccountInfoCaption.Value" Value="Account informatie" />
+			<Item Name="LocalizableStrings.LeadPageContactInfoCaption.Value" Value="Contact informatie" />
+			<Item Name="LocalizableStrings.LeadPageDistributionInfoCaption.Value" Value="Lead distributie" />
+			<Item Name="LocalizableStrings.LeadPageGeneralTabContainerCaption.Value" Value="Lead informatie" />
+			<Item Name="LocalizableStrings.LeadPageMQLTabTabCaption.Value" Value="MQL" />
+			<Item Name="LocalizableStrings.LeadPageNeedValidationBlockCaption.Value" Value="Verificatie vereist" />
+			<Item Name="LocalizableStrings.LeadPageNeedValidationInfo.Value" Value="het is mogelijk dat sommige van de landing pagina velden niet goed zijn ingevuld.Corrigeerde lead adresinvoer of voeg nieuwe waarden toe aan het keuzeveld." />
+			<Item Name="LocalizableStrings.LeadPageSQLTabOpportunityPlanningGroupGroupCaption.Value" Value="Opportunity planning" />
+			<Item Name="LocalizableStrings.LeadPageSQLTabTabCaption.Value" Value="SQL" />
+			<Item Name="LocalizableStrings.LeadPageTransferToSaleInfoCaption.Value" Value="Overdracht aan verkoop" />
+			<Item Name="LocalizableStrings.LeadProductDetailV241d7605eDetailCaptionOnPage.Value" Value="Producten" />
+			<Item Name="LocalizableStrings.LeadProductDetailV2DetailCaptionOnPage.Value" Value="Products" />
+			<Item Name="LocalizableStrings.LeadSpecificationDetailDetailCaptionOnPage.Value" Value="Features" />
+			<Item Name="LocalizableStrings.LeadsSimilarSearchResultDetailDetailCaptionOnPage.Value" Value="Similar leads" />
+			<Item Name="LocalizableStrings.MobilePhoneCaption.Value" Value="Mobiele telefoon" />
+			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="Meerdere wachtrijen verbonden met het proces. Proces Id: {0}" />
+			<Item Name="LocalizableStrings.NeedInfoTabCaption.Value" Value="Gegevens klantbehoefte" />
+			<Item Name="LocalizableStrings.OpportunityHistoryActivityDetail802203a9DetailCaptionOnPage.Value" Value="Activiteiten" />
+			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Plaats opnieuw in wachtrij" />
+			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="Niet in staat om opnieuw wachtrij te plaatsen. Error message: {0}" />
+			<Item Name="LocalizableStrings.PredictiveScoreNotEvaluatedCaption.Value" Value="not evaluated" />
+			<Item Name="LocalizableStrings.PredictiveScoreTip.Value" Value="Lead conversion probability based on historical patterns and real-time data of the lead. &lt;a href=&quot;#&quot; data-context-help-id=&quot;1863&quot; &gt;Details...&lt;/a&gt;" />
+			<Item Name="LocalizableStrings.PropertyBrowserCaption.Value" Value="Browser" />
+			<Item Name="LocalizableStrings.PropertyColorDepthCaption.Value" Value="Kleurdiepte" />
+			<Item Name="LocalizableStrings.PropertyDisplayCaption.Value" Value="Weergeven" />
+			<Item Name="LocalizableStrings.PropertyLanguageCaption.Value" Value="Taal" />
+			<Item Name="LocalizableStrings.PropertyLanguagesCaption.Value" Value="Talen" />
+			<Item Name="LocalizableStrings.PropertyPageUrlCaption.Value" Value="Pagina url" />
+			<Item Name="LocalizableStrings.PropertyPixelDepthCaption.Value" Value="Pixel Depth" />
+			<Item Name="LocalizableStrings.PropertyPlatformCaption.Value" Value="Platform" />
+			<Item Name="LocalizableStrings.PropertyRefererCaption.Value" Value="Verwijzer" />
+			<Item Name="LocalizableStrings.PropertyScreenAvailCaption.Value" Value="Scherm baten" />
+			<Item Name="LocalizableStrings.QualifiedAccountCaption.Value" Value="Account" />
+			<Item Name="LocalizableStrings.QualifiedContactCaption.Value" Value="Contact" />
+			<Item Name="LocalizableStrings.QualifyStatusDistributionCaption.Value" Value="Verdelen" />
+			<Item Name="LocalizableStrings.QualifyStatusInLeadDetailV24128dc5aDetailCaptionOnPage.Value" Value="Fases" />
+			<Item Name="LocalizableStrings.QualifyStatusQualificationCaption.Value" Value="Kwalificeren" />
+			<Item Name="LocalizableStrings.QualifyStatusTranslationForSaleCaption.Value" Value="Doorgaan naar overdracht" />
+			<Item Name="LocalizableStrings.QueueItemIsEmptyError.Value" Value="Pagina is niet aangesloten op de agent desktop wachtrij element. Actie geannuleerd." />
+			<Item Name="LocalizableStrings.QueueItemPostponeFailedMessage.Value" Value="Niet in staat om opnieuw wachtrij te plaatsen" />
+			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="Met succes opnieuw in de wachtrij" />
+			<Item Name="LocalizableStrings.RegionCaption.Value" Value="Provincie" />
+			<Item Name="LocalizableStrings.RegionStrCaption.Value" Value="Provincie" />
+			<Item Name="LocalizableStrings.RequiredFieldsMessage.Value" Value="Gelieve in te vullen ofwel de &quot;Relatie&quot; of &quot;Account&quot; veld" />
+			<Item Name="LocalizableStrings.SearchAccountInGoogleNotEnoughInfoMessage.Value" Value="To search on Google you should fill in the field &quot;Account name&quot;" />
+			<Item Name="LocalizableStrings.SearchAccountInLinkedInNotEnoughInfoMessage.Value" Value="To search on LinkedIn you should fill in the field &quot;Account name&quot;" />
+			<Item Name="LocalizableStrings.SearchContactInFacebookNotEnoughInfoMessage.Value" Value="To search on Facebook you should specify Email" />
+			<Item Name="LocalizableStrings.SearchContactInLinkedInNotEnoughInfoMessage.Value" Value="To search on LinkedIn you should fill in at least one of the fields &quot;Contact name&quot;, &quot;Account name&quot;" />
+			<Item Name="LocalizableStrings.SearchFacebook.Value" Value="Zoek op Facebook" />
+			<Item Name="LocalizableStrings.SearchGoogle.Value" Value="Search in Google" />
+			<Item Name="LocalizableStrings.SearchLinkedIn.Value" Value="Zoek in LinkedIn" />
+			<Item Name="LocalizableStrings.ShowTrackingDataCaption.Value" Value="Show tracking data" />
+			<Item Name="LocalizableStrings.SimilarAccountsButtonFoundHintText.Caption" Value="SimilarAccountsButtonFoundHintText" />
+			<Item Name="LocalizableStrings.SimilarAccountsButtonFoundHintText.Value" Value="tekst nodig." />
+			<Item Name="LocalizableStrings.SimilarAccountsButtonNotFoundHintText.Caption" Value="SimilarAccountsButtonNotFoundHintText" />
+			<Item Name="LocalizableStrings.SimilarAccountsButtonNotFoundHintText.Value" Value="Er zijn geen bedrijven gevonden die gekoppeld kunnen worden aan deze lead." />
+			<Item Name="LocalizableStrings.SimilarContactsButtonFoundHintText.Caption" Value="SimilarContactsButtonFoundHintText" />
+			<Item Name="LocalizableStrings.SimilarContactsButtonFoundHintText.Value" Value="tekst nodig." />
+			<Item Name="LocalizableStrings.SimilarContactsButtonNotFoundHintText.Caption" Value="SimilarContactsButtonNotFoundHintText" />
+			<Item Name="LocalizableStrings.SimilarContactsButtonNotFoundHintText.Value" Value="Er zijn geen contacten gevonden die kunnen worden gekoppeld aan deze lead." />
+			<Item Name="LocalizableStrings.SiteEventDetailV23f8ee442DetailCaptionOnPage.Value" Value="Website events" />
+			<Item Name="LocalizableStrings.SourceGroupCaption.Value" Value="Lead betrokkenheid" />
+			<Item Name="LocalizableStrings.TitleCaption.Value" Value="Titel" />
+			<Item Name="LocalizableStrings.TrackingEventsTabCaption.Value" Value="Website events" />
+			<Item Name="LocalizableStrings.VwLeadToOpportunityLogTableViewDetailCaptionOnPage.Value" Value="Object" />
+			<Item Name="LocalizableStrings.WebsiteCaption.Value" Value="Website" />
+			<Item Name="LocalizableStrings.ZipCaption.Value" Value="Postcode" />
+		</Items>
+	</Group>
+</Resources>

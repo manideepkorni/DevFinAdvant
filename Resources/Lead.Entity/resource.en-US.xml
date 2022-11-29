@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Leads and Opportunities" />
+			<Item Name="Columns.UsrAnnualRevenueForecast.Caption" Value="Annual Revenue Forecast" />
+			<Item Name="Columns.UsrAvgSizeofTransaction.Caption" Value="Average size of transaction" />
+			<Item Name="Columns.UsrCurrentStage.Caption" Value="Current Stage" />
+			<Item Name="Columns.UsrFXtransactions.Caption" Value="FX Volume (Monthly)" />
+			<Item Name="Columns.UsrLeadOpportunityStages.Caption" Value="Lead Opportunity Stages" />
+			<Item Name="Columns.UsrMood.Caption" Value="Mood" />
+			<Item Name="Columns.UsrNumberofTransactions_Monthly.Caption" Value="Number of Transactions (Monthly)" />
+			<Item Name="Columns.UsrOnBoardingFee.Caption" Value="OnBoarding Fee" />
+			<Item Name="Columns.UsrOpportunitySource.Caption" Value="Opportunity Source" />
+			<Item Name="Columns.UsrOwnerCompliance.Caption" Value="Owner (Compliance)" />
+			<Item Name="Columns.UsrOwnerSales.Caption" Value="Owner (Sales)" />
+			<Item Name="Columns.UsrProbability.Caption" Value="Probability" />
+			<Item Name="Columns.UsrSubscriptionFee.Caption" Value="Subscription Fee" />
+			<Item Name="Columns.UsrTotalAmount.Caption" Value="Total Amount" />
+			<Item Name="Columns.UsrTurnover.Caption" Value="Turnover" />
+		</Items>
+	</Group>
+</Resources>

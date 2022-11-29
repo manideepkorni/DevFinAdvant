@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "872486d7-7848-428f-a45a-ef83034b376f",
+    "Name": "UsrSchemaaf1baa06Page",
+    "ModifiedOnUtc": "\/Date(1669353728000)\/",
+    "Parent": {
+      "UId": "d3cc497c-f286-4f13-99c1-751c468733c0",
+      "Name": "BasePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "VwLeadToOpportunityLogTableView",
+    "DependsOn": []
+  }
+}

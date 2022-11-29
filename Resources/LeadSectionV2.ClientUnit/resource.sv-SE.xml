@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sv-SE">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Section schema: &quot;Leads&quot;" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Leads" />
+			<Item Name="LocalizableStrings.ConfigureLeadTypes.Value" Value="Sätt upp kundbehov" />
+			<Item Name="LocalizableStrings.DisqualificationButtonCaption.Value" Value="Diskvalificera" />
+			<Item Name="LocalizableStrings.GenerateReportWithoutFiltersConfirmationMessage.Value" Value="Rapporten genereras för alla kort i sektionen, utan filter. Vill ni fortsätta?" />
+			<Item Name="LocalizableStrings.LeadScoredBody.Value" Value="Beräknat Lead-betyg är {0}" />
+			<Item Name="LocalizableStrings.LeadScoredTitle.Value" Value="Lead &quot;{0}&quot;" />
+			<Item Name="LocalizableStrings.QualifyStatusDistributionCaption.Value" Value="Distribuera" />
+			<Item Name="LocalizableStrings.QualifyStatusQualificationCaption.Value" Value="Kvalificera" />
+			<Item Name="LocalizableStrings.QualifyStatusTranslationForSaleCaption.Value" Value="Fortsätt till överlämning" />
+			<Item Name="LocalizableStrings.ScoreLeadActionCaption.Value" Value="Utvärdera beräknat betyg" />
+			<Item Name="LocalizableStrings.ScoreLeadActionGeneralErrorMessage.Value" Value="Händelse slutfördes med fel. Ni kan hitta detaljer i applikationens logg" />
+			<Item Name="LocalizableStrings.ScoreLeadActionNoModelsErrorMessage.Value" Value="Det finns inga modeller för Lead-betygsättning (scoring) tillgängliga" />
+		</Items>
+	</Group>
+</Resources>

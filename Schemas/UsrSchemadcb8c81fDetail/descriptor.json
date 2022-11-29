@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "9afa695d-1063-42cc-834c-a85b9c018852",
+    "Name": "UsrSchemadcb8c81fDetail",
+    "ModifiedOnUtc": "\/Date(1669353734000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "VwLeadToOpportunityLogTableView",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "eb74db6d-90d3-444f-b8ec-340c69d3a08e",
+    "Name": "UsrOpportunityCaseFlow",
+    "ModifiedOnUtc": "\/Date(1667989452000)\/",
+    "ManagerName": "DcmSchemaManager",
+    "Caption": "Opportunity Flow",
+    "DependsOn": []
+  }
+}

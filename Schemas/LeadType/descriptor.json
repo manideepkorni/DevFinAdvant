@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "fdc89fd8-0429-4458-9c58-81ac5e259dbf",
+    "Name": "LeadType",
+    "ModifiedOnUtc": "\/Date(1669110850000)\/",
+    "Parent": {
+      "UId": "e0dbeb22-4932-4eee-a8f2-a247a5fce888",
+      "Name": "LeadType"
+    },
+    "ExtendParent": true,
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Customer need",
+    "DependsOn": []
+  }
+}

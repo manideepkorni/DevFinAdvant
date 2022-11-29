@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Lead Flow" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Stages.Stage1.Caption" Value="Qualification" />
+			<Item Name="Stages.Stage2.Caption" Value="Nurturing" />
+			<Item Name="Stages.Stage3.Caption" Value="Awaiting Sale" />
+			<Item Name="Stages.Stage4.Caption" Value="Rejected" />
+			<Item Name="Stages.Stage4.Elements.DcmElement3.Caption" Value="Choose the Stage and Reason" />
+			<Item Name="Stages.Stage4.Elements.DcmElement3.ProcessFlowElement.Parameters.RecordId.Caption" Value="RecordId" />
+			<Item Name="Stages.Stage4.Elements.DcmElement3.ProcessFlowElement.Parameters.RecordId.DisplayValue" Value="[#Main record.Id#]" />
+			<Item Name="Stages.Stage4.Elements.DcmElement3.ProcessFlowElement.Parameters.Result.Caption" Value="Result" />
+			<Item Name="Stages.Stage4.Elements.DcmElement3.ProcessFlowElement.Parameters.StageValue.Caption" Value="StageValue" />
+			<Item Name="Stages.Stage5.Caption" Value="Not Interested" />
+			<Item Name="Stages.Stage6.Caption" Value="Disqualified" />
+		</Items>
+	</Group>
+</Resources>

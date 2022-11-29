@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a5d0bc15-0138-4d0c-8b93-b0b61ff174b9",
+    "Name": "UsrClientUnit_2d1666b",
+    "ModifiedOnUtc": "\/Date(1669110850000)\/",
+    "Parent": {
+      "UId": "5826ff24-46c6-4169-9223-2aaad9ec2e18",
+      "Name": "BasePageSimpleProcessTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Choose the stage and reason ",
+    "DependsOn": []
+  }
+}

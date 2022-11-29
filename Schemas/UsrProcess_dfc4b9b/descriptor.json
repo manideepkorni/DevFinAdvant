@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d1aacefd-96db-4403-94c8-c126a4809b98",
+    "Name": "UsrProcess_dfc4b9b",
+    "ModifiedOnUtc": "\/Date(1669369099000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Leads to send notification on stage update",
+    "DependsOn": []
+  }
+}

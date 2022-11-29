@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Choose the reason" />
+			<Item Name="Parameters.55522797-4e28-4d00-a126-c79d59455af3.Caption" Value="Stage Value" />
+			<Item Name="Parameters.7a974e05-2983-4a69-9002-c174b928ed33.Caption" Value="Comments" />
+			<Item Name="Parameters.c49bd85e-159a-49ee-b10a-3c3bca63d7d5.Value.c4841740-ff8c-406f-8626-1c78f78608bf.Caption" Value="Close" />
+			<Item Name="Parameters.c49bd85e-159a-49ee-b10a-3c3bca63d7d5.Value.f073e66a-36ec-47d7-9c6a-e5952dbf05a3.Caption" Value="Save" />
+			<Item Name="Parameters.e829005c-b093-486a-8737-f2e434d13eb8.Caption" Value="Reason" />
+		</Items>
+	</Group>
+</Resources>

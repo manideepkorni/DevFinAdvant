@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "925c0764-5271-4fe5-bcd9-f4ec443aa926",
+    "Name": "OpportunityDepartment",
+    "ModifiedOnUtc": "\/Date(1669110850000)\/",
+    "Parent": {
+      "UId": "5d8456b4-15e0-4de5-b0e5-afb10f6795c0",
+      "Name": "OpportunityDepartment"
+    },
+    "ExtendParent": true,
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Sales division",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "a52984e9-1eaf-46da-b32c-aa4d6382e2a6",
+    "Name": "UsrVwLeadToOpportunityLogTableView",
+    "ModifiedOnUtc": "\/Date(1669207151000)\/",
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "VwLeadToOpportunityLogTableView",
+    "DependsOn": []
+  }
+}

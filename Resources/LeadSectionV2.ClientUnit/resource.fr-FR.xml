@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Structure de section : &quot;Leads&quot;" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Leads" />
+			<Item Name="LocalizableStrings.ConfigureLeadTypes.Value" Value="Configurer les besoins client" />
+			<Item Name="LocalizableStrings.DisqualificationButtonCaption.Value" Value="Rejeté" />
+			<Item Name="LocalizableStrings.GenerateReportWithoutFiltersConfirmationMessage.Value" Value="Le rapport sera généré pour tous les enregistrements de la section, sans filtres. Voulez-vous continuer?" />
+			<Item Name="LocalizableStrings.LeadScoredBody.Value" Value="Le score prédictif du lead est {0}" />
+			<Item Name="LocalizableStrings.LeadScoredTitle.Value" Value="Lead &quot;{0}&quot;" />
+			<Item Name="LocalizableStrings.QualifyStatusDistributionCaption.Value" Value="Distribuer" />
+			<Item Name="LocalizableStrings.QualifyStatusQualificationCaption.Value" Value="Qualifier" />
+			<Item Name="LocalizableStrings.QualifyStatusTranslationForSaleCaption.Value" Value="Procéder au transfert à l'équipe ciale" />
+			<Item Name="LocalizableStrings.ScoreLeadActionCaption.Value" Value="Évaluer le score prédictif" />
+			<Item Name="LocalizableStrings.ScoreLeadActionGeneralErrorMessage.Value" Value="L'action s'est terminée en échec. Vous pouvez trouver des détails dans le journal des applications" />
+			<Item Name="LocalizableStrings.ScoreLeadActionNoModelsErrorMessage.Value" Value="Il n'y a pas de modèle prédictif de scoring des leads disponible" />
+		</Items>
+	</Group>
+</Resources>

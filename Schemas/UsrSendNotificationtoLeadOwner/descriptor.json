@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "8d3312d2-f92a-475e-889f-636665eb76df",
+    "Name": "UsrSendNotificationtoLeadOwner",
+    "ModifiedOnUtc": "\/Date(1669369819000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Send Notification to Lead Owner",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Section schema: &quot;Leads&quot;" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Leads" />
+			<Item Name="LocalizableStrings.ConfigureLeadTypes.Value" Value="Set up customer needs" />
+			<Item Name="LocalizableStrings.DisqualificationButtonCaption.Value" Value="Diskwalificeren" />
+			<Item Name="LocalizableStrings.GenerateReportWithoutFiltersConfirmationMessage.Value" Value="The report will be generated for all records in the section, without filters. Do you wish to proceed?" />
+			<Item Name="LocalizableStrings.LeadScoredBody.Value" Value="Predictive lead score is {0}" />
+			<Item Name="LocalizableStrings.LeadScoredTitle.Value" Value="Lead &quot;{0}&quot;" />
+			<Item Name="LocalizableStrings.QualifyStatusDistributionCaption.Value" Value="Verdelen" />
+			<Item Name="LocalizableStrings.QualifyStatusQualificationCaption.Value" Value="Qualify" />
+			<Item Name="LocalizableStrings.QualifyStatusTranslationForSaleCaption.Value" Value="Doorgaan naar overdracht" />
+			<Item Name="LocalizableStrings.ScoreLeadActionCaption.Value" Value="Evaluate predictive score" />
+			<Item Name="LocalizableStrings.ScoreLeadActionGeneralErrorMessage.Value" Value="Actie is beëindigd met een mislukking. U vindt details in het toepassingslogboek" />
+			<Item Name="LocalizableStrings.ScoreLeadActionNoModelsErrorMessage.Value" Value="There are no predictive lead scoring models available" />
+		</Items>
+	</Group>
+</Resources>

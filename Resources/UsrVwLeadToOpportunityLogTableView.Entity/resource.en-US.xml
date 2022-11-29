@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="VwLeadToOpportunityLogTableView" />
+			<Item Name="Columns.UsrvwChangeTrackedById.Caption" Value="vwChangeTrackedById" />
+			<Item Name="Columns.UsrvwChangeTrackedId.Caption" Value="vwChangeTrackedId" />
+			<Item Name="Columns.UsrvwChangeTypeId.Caption" Value="vwChangeTypeId" />
+			<Item Name="Columns.UsrvwEndDate.Caption" Value="VwEndDate" />
+			<Item Name="Columns.UsrVwId.Caption" Value="VwId" />
+			<Item Name="Columns.UsrvwStartDate.Caption" Value="VwStartDate" />
+			<Item Name="Columns.UsrvwUsrLeadFlow.Caption" Value="vwUsrLeadFlow" />
+			<Item Name="EventsProcessSchema.Caption" Value="Business process" />
+		</Items>
+	</Group>
+</Resources>
