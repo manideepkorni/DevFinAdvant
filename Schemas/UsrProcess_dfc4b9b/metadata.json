@@ -831,7 +831,7 @@
           "BO3": true,
           "BP2": [],
           "CL2": "FFFFFFFF",
-          "CH1": "var esq = new EntitySchemaQuery(UserConnection.EntitySchemaManager,\"Lead\");\nvar id= esq.AddColumn(\"Id\");\n\nvar entityCollection = esq.GetEntityCollection(UserConnection);\nList<Guid> list=new List<Guid>();\nif(entityCollection != null)\n{\n\tforeach(var entity in entityCollection)\n\t{\n\t\t\n\t\tlist.Add(entity.GetTypedColumnValue<Guid>(id.Name));\n\t}\n\tSet(\"LeadList\",JsonConvert.SerializeObject(list));\n}\nelse\n{\n\tSet(\"LeadList\",\"\");\n}\nreturn true;",
+          "CH1": "var esq = new EntitySchemaQuery(UserConnection.EntitySchemaManager,\"Lead\");\nvar id= esq.AddColumn(\"Id\");\nDateTime date = DateTime.Parse(\"12-01-2022\");\nvar filterGroup = new EntitySchemaQueryFilterCollection(esq,LogicalOperationStrict.And);\nfilterGroup.Add(esq.CreateFilterWithParameters(FilterComparisonType.Greater,\"ModifiedOn\",date));\nesq.Filters.Add(filterGroup);\nvar entityCollection = esq.GetEntityCollection(UserConnection);\nList<Guid> list=new List<Guid>();\nif(entityCollection != null)\n{\n\tforeach(var entity in entityCollection)\n\t{\n\t\t\n\t\tlist.Add(entity.GetTypedColumnValue<Guid>(id.Name));\n\t}\n\tSet(\"LeadList\",JsonConvert.SerializeObject(list));\n}\nelse\n{\n\tSet(\"LeadList\",\"\");\n}\nreturn true;",
           "CH2": true
         },
         {
@@ -1382,7 +1382,7 @@
           "BO3": true,
           "BP2": [],
           "CL2": "FFFFFFFF",
-          "CH1": "var startDate = Get<DateTime>(\"LastModifiedDate\");\nvar date = startDate.ToShortDateString();\n//var today = DateTime.Parse(\"12-07-2022\");\nvar _today = DateTime.Now.ToShortDateString();\nvar today = DateTime.Parse(_today);\nvar daysDiff = (today - DateTime.Parse(date)).Days;\nif( (daysDiff== 2)||(daysDiff== 4)||(daysDiff== 7)  )\n{\n\tSet(\"Continue2\",true);\nreturn true;\n}\nelse\n{Set(\"Continue2\",false);\n\treturn true;\n}\n",
+          "CH1": "var startDate = Get<DateTime>(\"LastModifiedDate\");\nvar date = startDate.ToShortDateString();\n//var today = DateTime.Parse(\"12-08-2022\");\nvar _today = DateTime.Now.ToShortDateString();\nvar today = DateTime.Parse(_today);\nvar daysDiff = (today - DateTime.Parse(date)).Days;\nif( (daysDiff== 2)||(daysDiff== 4)||(daysDiff== 7)  )\n{\n\tSet(\"Continue2\",true);\nreturn true;\n}\nelse\n{Set(\"Continue2\",false);\n\treturn true;\n}\n",
           "CH2": true
         },
         {
