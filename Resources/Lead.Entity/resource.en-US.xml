@@ -15,6 +15,8 @@
 			<Item Name="Columns.UsrOwnerCompliance.Caption" Value="Owner (Compliance)" />
 			<Item Name="Columns.UsrOwnerSales.Caption" Value="Owner (Sales)" />
 			<Item Name="Columns.UsrProbability.Caption" Value="Probability" />
+			<Item Name="Columns.UsrRejectionClosedLostComments.Caption" Value="Rejection/ClosedLost Comments" />
+			<Item Name="Columns.UsrRejectionReason.Caption" Value="Rejection Reason" />
 			<Item Name="Columns.UsrSubscriptionFee.Caption" Value="Subscription Fee" />
 			<Item Name="Columns.UsrTotalAmount.Caption" Value="Total Amount" />
 			<Item Name="Columns.UsrTurnover.Caption" Value="Turnover" />

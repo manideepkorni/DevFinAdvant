@@ -378,25 +378,6 @@ define("LeadPageV2", ["css!OpportunityCommonCSS"], function() {
 			},
 			{
 				"operation": "merge",
-				"name": "NewLeadDisqualifyReason",
-				"values": {
-					"layout": {
-						"colSpan": 24,
-						"rowSpan": 1,
-						"column": 0,
-						"row": 8
-					}
-				}
-			},
-			{
-				"operation": "move",
-				"name": "NewLeadDisqualifyReason",
-				"parentName": "ProfileContainer",
-				"propertyName": "items",
-				"index": 6
-			},
-			{
-				"operation": "merge",
 				"name": "LeadPredictiveScoreContainer",
 				"values": {
 					"layout": {
@@ -1013,6 +994,10 @@ define("LeadPageV2", ["css!OpportunityCommonCSS"], function() {
 						"row": 7
 					}
 				}
+			},
+			{
+				"operation": "remove",
+				"name": "NewLeadDisqualifyReason"
 			},
 			{
 				"operation": "remove",
