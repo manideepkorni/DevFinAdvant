@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ChartWidget_06e2hn7_series_0.Value" Value="30% Probability" />
+			<Item Name="LocalizableStrings.ChartWidget_06e2hn7_series_1.Value" Value="60% Probability" />
+			<Item Name="LocalizableStrings.ChartWidget_06e2hn7_series_2.Value" Value="90% Probability" />
+			<Item Name="LocalizableStrings.ChartWidget_06e2hn7_title.Value" Value="Monthly Probability Split" />
+			<Item Name="LocalizableStrings.ChartWidget_06e2hn7_xAxis.Value" Value="Month" />
+			<Item Name="LocalizableStrings.ChartWidget_06e2hn7_yAxis.Value" Value="Probability Count" />
+			<Item Name="LocalizableStrings.ChartWidget_2dr2bmh_series_0.Value" Value="Leads and Opportunities" />
+			<Item Name="LocalizableStrings.ChartWidget_2dr2bmh_title.Value" Value="Monthly Opportunity PipeLine" />
+			<Item Name="LocalizableStrings.ChartWidget_81c4ofw_series_0.Value" Value="Probabillty Count" />
+			<Item Name="LocalizableStrings.ChartWidget_81c4ofw_title.Value" Value="Probability Count" />
+			<Item Name="LocalizableStrings.ChartWidget_m8n2i6k_series_0.Value" Value="Leads and Opportunities" />
+			<Item Name="LocalizableStrings.ChartWidget_m8n2i6k_title.Value" Value="Opportunity Amount by Probability" />
+			<Item Name="LocalizableStrings.ChartWidget_m8n2i6k_xAxis.Value" Value="Probability " />
+			<Item Name="LocalizableStrings.ChartWidget_m8n2i6k_yAxis.Value" Value="Total Amount" />
+			<Item Name="LocalizableStrings.ChartWidget_mmdklgd_series_0.Value" Value="Leads and Opportunities" />
+			<Item Name="LocalizableStrings.ChartWidget_mmdklgd_title.Value" Value="Awaiting sale vs closed won" />
+			<Item Name="LocalizableStrings.ChartWidget_mmdklgd_xAxis.Value" Value="Stage" />
+			<Item Name="LocalizableStrings.ChartWidget_mmdklgd_yAxis.Value" Value="Number " />
+			<Item Name="LocalizableStrings.ChartWidget_r0vreab_series_0.Value" Value="No of Opportunities" />
+			<Item Name="LocalizableStrings.ChartWidget_r0vreab_title.Value" Value="Monthly Opportunity Count" />
+			<Item Name="LocalizableStrings.ChartWidget_r0vreab_xAxis.Value" Value="Month" />
+			<Item Name="LocalizableStrings.ChartWidget_r0vreab_yAxis.Value" Value="Number" />
+			<Item Name="LocalizableStrings.IndicatorWidget_1mn6a0h_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.IndicatorWidget_1mn6a0h_title.Value" Value="Total Number of leads" />
+			<Item Name="LocalizableStrings.IndicatorWidget_4rodscr_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.IndicatorWidget_4rodscr_title.Value" Value="Total Amount" />
+			<Item Name="LocalizableStrings.IndicatorWidget_pd3nz3g_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.IndicatorWidget_pd3nz3g_title.Value" Value="Probability count 90%" />
+			<Item Name="LocalizableStrings.IndicatorWidget_vq1mh16_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.IndicatorWidget_vq1mh16_title.Value" Value="Opportunity Count" />
+		</Items>
+	</Group>
+</Resources>

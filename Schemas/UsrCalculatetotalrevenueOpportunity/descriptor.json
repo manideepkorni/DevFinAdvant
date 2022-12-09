@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "6d6de2df-0970-4859-9acc-6a4b6899e01b",
     "Name": "UsrCalculatetotalrevenueOpportunity",
-    "ModifiedOnUtc": "\/Date(1663942056000)\/",
+    "ModifiedOnUtc": "\/Date(1670565284000)\/",
     "ManagerName": "ProcessSchemaManager",
     "Caption": "Calculate total revenue - Opportunity",
     "DependsOn": []

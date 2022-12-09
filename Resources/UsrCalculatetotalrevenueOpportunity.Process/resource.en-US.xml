@@ -10,7 +10,6 @@
 			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.Caption" Value="If object meets the following conditions" />
 			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.DisplayValue" Value="true" />
 			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.RecordColumnValues.Caption" Value="Set column values" />
-			<Item Name="BaseElements.FormulaTask1.Caption" Value="calculate Total Amount Lead" />
 			<Item Name="BaseElements.ReadDataUserTask1.Caption" Value="Read Lead data" />
 			<Item Name="BaseElements.ReadDataUserTask1.Parameters.AggregationColumnName.Caption" Value="Name of aggregate function column" />
 			<Item Name="BaseElements.ReadDataUserTask1.Parameters.CanReadUncommitedData.Caption" Value="Read uncommitted data" />
@@ -40,6 +39,7 @@
 			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
 			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
 			<Item Name="Parameters.TotalAmount.Caption" Value="TotalAmount" />
+			<Item Name="Parameters.TotalAmount.DisplayValue" Value="[#Read Lead data.First item of resulting collection.Subscription Fee#]+[#Read Lead data.First item of resulting collection.OnBoarding Fee#]" />
 		</Items>
 	</Group>
 </Resources>

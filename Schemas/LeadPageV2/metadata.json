@@ -1,4 +1,5 @@
 = MetaData.Schema.UId "cec760cb-a14d-4df5-92ae-4312bf71ec0b"
+= MetaData.Schema.A5 "002630c4-bacf-488f-a876-d1a714ec5e51"
 + MetaData.Schema.B2 {
   "UId": "ab60e017-9880-4fb6-9d9f-8b5b2d1085e0",
   "A2": "SiteEventDetailV23f8ee442DetailCaptionOnPage",

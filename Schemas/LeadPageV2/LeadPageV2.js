@@ -72,7 +72,58 @@ define("LeadPageV2", ["css!OpportunityCommonCSS"], function() {
 				}
 			}
 		}/**SCHEMA_DETAILS*/,
-		businessRules: /**SCHEMA_BUSINESS_RULES*/{}/**SCHEMA_BUSINESS_RULES*/,
+		businessRules: /**SCHEMA_BUSINESS_RULES*/{
+			"UsrTotalAmount": {
+				"4c341117-cee7-43b9-97cf-484c8fb694ff": {
+					"uId": "4c341117-cee7-43b9-97cf-484c8fb694ff",
+					"enabled": true,
+					"removed": true,
+					"ruleType": 3,
+					"populatingAttributeSource": {
+						"expression": {
+							"type": 6,
+							"formula": {
+								"type": 0,
+								"dataType": 32,
+								"operatorType": 1,
+								"leftExpression": {
+									"type": 1,
+									"dataType": 32,
+									"operandType": 1,
+									"columnPath": "UsrSubscriptionFee",
+									"columnOperandType": 0
+								},
+								"rightExpression": {
+									"type": 1,
+									"dataType": 32,
+									"operandType": 1,
+									"columnPath": "UsrOnBoardingFee",
+									"columnOperandType": 0
+								},
+								"arithmeticOperatorType": 0
+							}
+						}
+					},
+					"logical": 0,
+					"conditions": [
+						{
+							"comparisonType": 2,
+							"leftExpression": {
+								"type": 1,
+								"attribute": "UsrSubscriptionFee"
+							}
+						},
+						{
+							"comparisonType": 2,
+							"leftExpression": {
+								"type": 1,
+								"attribute": "UsrOnBoardingFee"
+							}
+						}
+					]
+				}
+			}
+		}/**SCHEMA_BUSINESS_RULES*/,
 		methods: {
 			CalculateRevenue : function(){
 				var fxtransactions = this.get("UsrFXtransactions");
@@ -764,7 +815,7 @@ define("LeadPageV2", ["css!OpportunityCommonCSS"], function() {
 			},
 			{
 				"operation": "insert",
-				"name": "UsrTurnover6a9ef49d-0558-4ddc-8110-76f552da50fb",
+				"name": "UsrTotalAmount1c046169-1914-4c8a-8139-70b8d84da787",
 				"values": {
 					"layout": {
 						"colSpan": 12,
@@ -773,9 +824,8 @@ define("LeadPageV2", ["css!OpportunityCommonCSS"], function() {
 						"row": 4,
 						"layoutName": "LeadPageDealInformationBlock"
 					},
-					"bindTo": "UsrTurnover",
-					"enabled": true,
-					"contentType": 3
+					"bindTo": "UsrTotalAmount",
+					"enabled": false
 				},
 				"parentName": "LeadPageDealInformationBlock",
 				"propertyName": "items",
@@ -800,7 +850,7 @@ define("LeadPageV2", ["css!OpportunityCommonCSS"], function() {
 			},
 			{
 				"operation": "insert",
-				"name": "UsrNumberofTransactions_Monthlyca6a501f-fe82-4dd4-93b3-0195c415cca6",
+				"name": "UsrTurnover6a9ef49d-0558-4ddc-8110-76f552da50fb",
 				"values": {
 					"layout": {
 						"colSpan": 12,
@@ -809,7 +859,9 @@ define("LeadPageV2", ["css!OpportunityCommonCSS"], function() {
 						"row": 5,
 						"layoutName": "LeadPageDealInformationBlock"
 					},
-					"bindTo": "UsrNumberofTransactions_Monthly"
+					"bindTo": "UsrTurnover",
+					"enabled": true,
+					"contentType": 3
 				},
 				"parentName": "LeadPageDealInformationBlock",
 				"propertyName": "items",
@@ -835,7 +887,7 @@ define("LeadPageV2", ["css!OpportunityCommonCSS"], function() {
 			},
 			{
 				"operation": "insert",
-				"name": "UsrAvgSizeofTransaction94d41c10-4303-4b46-9b83-398da55eb995",
+				"name": "UsrNumberofTransactions_Monthlyca6a501f-fe82-4dd4-93b3-0195c415cca6",
 				"values": {
 					"layout": {
 						"colSpan": 12,
@@ -844,7 +896,7 @@ define("LeadPageV2", ["css!OpportunityCommonCSS"], function() {
 						"row": 6,
 						"layoutName": "LeadPageDealInformationBlock"
 					},
-					"bindTo": "UsrAvgSizeofTransaction"
+					"bindTo": "UsrNumberofTransactions_Monthly"
 				},
 				"parentName": "LeadPageDealInformationBlock",
 				"propertyName": "items",
@@ -869,7 +921,7 @@ define("LeadPageV2", ["css!OpportunityCommonCSS"], function() {
 			},
 			{
 				"operation": "insert",
-				"name": "UsrOwnerSales4c615b50-aaae-4719-ba26-4cc8a8939df2",
+				"name": "UsrAvgSizeofTransaction94d41c10-4303-4b46-9b83-398da55eb995",
 				"values": {
 					"layout": {
 						"colSpan": 12,
@@ -878,7 +930,7 @@ define("LeadPageV2", ["css!OpportunityCommonCSS"], function() {
 						"row": 7,
 						"layoutName": "LeadPageDealInformationBlock"
 					},
-					"bindTo": "UsrOwnerSales"
+					"bindTo": "UsrAvgSizeofTransaction"
 				},
 				"parentName": "LeadPageDealInformationBlock",
 				"propertyName": "items",
@@ -903,7 +955,7 @@ define("LeadPageV2", ["css!OpportunityCommonCSS"], function() {
 			},
 			{
 				"operation": "insert",
-				"name": "CreatedOn525e17c8-a248-4cfc-8ce8-d87b6e2de9f5",
+				"name": "UsrOwnerSales4c615b50-aaae-4719-ba26-4cc8a8939df2",
 				"values": {
 					"layout": {
 						"colSpan": 12,
@@ -912,11 +964,28 @@ define("LeadPageV2", ["css!OpportunityCommonCSS"], function() {
 						"row": 8,
 						"layoutName": "LeadPageDealInformationBlock"
 					},
-					"bindTo": "CreatedOn"
+					"bindTo": "UsrOwnerSales"
 				},
 				"parentName": "LeadPageDealInformationBlock",
 				"propertyName": "items",
 				"index": 17
+			},
+			{
+				"operation": "insert",
+				"name": "CreatedOn525e17c8-a248-4cfc-8ce8-d87b6e2de9f5",
+				"values": {
+					"layout": {
+						"colSpan": 12,
+						"rowSpan": 1,
+						"column": 12,
+						"row": 9,
+						"layoutName": "LeadPageDealInformationBlock"
+					},
+					"bindTo": "CreatedOn"
+				},
+				"parentName": "LeadPageDealInformationBlock",
+				"propertyName": "items",
+				"index": 18
 			},
 			{
 				"operation": "merge",
