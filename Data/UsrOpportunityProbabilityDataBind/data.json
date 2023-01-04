@@ -35,6 +35,18 @@
           "Value": 30
         }
       ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "c60a8044-f112-4d21-bb38-839c414c5303"
+        },
+        {
+          "SchemaColumnUId": "9b546b68-eaf3-4fbd-a219-b34089211507",
+          "Value": 0
+        }
+      ]
     }
   ]
 }
