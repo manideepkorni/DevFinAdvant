@@ -6,16 +6,10 @@
 			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
 			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
 			<Item Name="Stages.Stage1.Caption" Value="Awaiting Sale" />
-			<Item Name="Stages.Stage2.Caption" Value="Compilance" />
+			<Item Name="Stages.Stage2.Caption" Value="Compliance" />
 			<Item Name="Stages.Stage3.Caption" Value="Sales Agreed" />
 			<Item Name="Stages.Stage4.Caption" Value="Closed Won" />
 			<Item Name="Stages.Stage5.Caption" Value="Closed Lost" />
-			<Item Name="Stages.Stage5.Elements.DcmElement1.Caption" Value="Choose the reason" />
-			<Item Name="Stages.Stage5.Elements.DcmElement1.ProcessFlowElement.Parameters.RecordId.Caption" Value="RecordId" />
-			<Item Name="Stages.Stage5.Elements.DcmElement1.ProcessFlowElement.Parameters.RecordId.DisplayValue" Value="[#Main record.Id#]" />
-			<Item Name="Stages.Stage5.Elements.DcmElement1.ProcessFlowElement.Parameters.StageValue.Caption" Value="StageValue" />
-			<Item Name="Stages.Stage5.Elements.DcmElement1.ProcessFlowElement.Parameters.StageValue.DisplayValue" Value="Closed Lost" />
-			<Item Name="Stages.Stage5.Elements.DcmElement1.ProcessFlowElement.Parameters.StageValue.Value" Value="Closed Lost" />
 			<Item Name="Stages.Stage6.Caption" Value="Closed" />
 		</Items>
 	</Group>

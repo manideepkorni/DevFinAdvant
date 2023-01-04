@@ -9,7 +9,6 @@
 = MetaData.Schema.EG1.BK8 "9e0790e7-9447-4ed6-a1ad-7f7827ef7c0d"
 + MetaData.Schema.EG1.BK3.["079c1a2b-96d1-4935-9764-180b73ed11ac"].BM4.["6a2146bb-1688-4388-9946-29409f61d0fb"].IL2 "079c1a2b-96d1-4935-9764-180b73ed11ac"
 - MetaData.Schema.EG1.BK3.["079c1a2b-96d1-4935-9764-180b73ed11ac"].BM4.["6a2146bb-1688-4388-9946-29409f61d0fb"].BL4
-~ MetaData.Schema.EG1.BK4 ["90027ac8-c9c3-4d21-a4f9-da1cde752cd1","08594d74-60b0-45ce-bf17-bac1a8b127f7","5f3bfbbe-1820-44ca-92f1-6f993169b2dd","dbf48103-dcf6-4f53-a052-d727a95ea0b4","3b7aac10-edc6-4ef5-814b-f6205547608c","696e5b6c-925d-4079-9e97-3d9a9c2c4893","40ffaf7b-cec3-4fc9-a544-655ba4ce3a1b","7c990a6c-def3-4036-abeb-f6cc737d00b9","f0646c74-f291-474f-9a10-143ee868f1c9","8140d7e7-fb91-4999-8347-543345440efb","db2f2393-5d29-47cf-a756-8e26392d342f","60ca0a5b-c2b5-4ee3-acd8-f25e9e91ec44","7feb971a-3b75-486d-bb0b-92352f82a420","2f317c63-b9de-4594-befc-1e8413c1ddfe","9481283f-6c95-4576-b60a-0ccd1f426c0c","dc2caa0e-a110-4c1d-9f75-7ebbbf41e110","9a655ba1-eca7-450f-b430-7139f8f462f6","baa10315-323e-4cd0-ae67-ad5a84e2cf61","8a5a0739-a2a3-4581-9476-2909c2e98c39","a53d2c03-849b-47b6-9032-066c63d26056","76ca325d-c9c6-4992-b7d6-11b890506ae3"]
 - MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16
 - MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16
 - MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16
@@ -216,6 +215,10 @@
   "S4": "be6abc67-17d0-4e4a-b7d1-032bde35682a",
   "E6": true,
   "E20": true,
+  "E12": {
+    "FB1": 1,
+    "FB2": "c60a8044-f112-4d21-bb38-839c414c5303"
+  },
   "E17": "UsrProbabilityId",
   "E18": "UsrProbabilityName"
 }

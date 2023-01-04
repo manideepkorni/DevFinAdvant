@@ -9,11 +9,6 @@
 			<Item Name="Stages.Stage2.Caption" Value="Nurturing" />
 			<Item Name="Stages.Stage3.Caption" Value="Awaiting Sale" />
 			<Item Name="Stages.Stage4.Caption" Value="Rejected" />
-			<Item Name="Stages.Stage4.Elements.DcmElement3.Caption" Value="Choose the Stage and Reason" />
-			<Item Name="Stages.Stage4.Elements.DcmElement3.ProcessFlowElement.Parameters.RecordId.Caption" Value="RecordId" />
-			<Item Name="Stages.Stage4.Elements.DcmElement3.ProcessFlowElement.Parameters.RecordId.DisplayValue" Value="[#Main record.Id#]" />
-			<Item Name="Stages.Stage4.Elements.DcmElement3.ProcessFlowElement.Parameters.Result.Caption" Value="Result" />
-			<Item Name="Stages.Stage4.Elements.DcmElement3.ProcessFlowElement.Parameters.StageValue.Caption" Value="StageValue" />
 			<Item Name="Stages.Stage5.Caption" Value="Not Interested" />
 			<Item Name="Stages.Stage6.Caption" Value="Disqualified" />
 		</Items>

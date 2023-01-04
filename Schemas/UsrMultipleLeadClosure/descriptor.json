@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d3cd9844-4020-48a0-8365-c3c75443c2c6",
+    "Name": "UsrMultipleLeadClosure",
+    "ModifiedOnUtc": "\/Date(1672722998000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "MultipleLeadClosure",
+    "DependsOn": []
+  }
+}

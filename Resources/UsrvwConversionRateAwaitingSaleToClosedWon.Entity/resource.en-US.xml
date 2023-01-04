@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="UsrvwConversionRateAwaitingSaleToClosedWon" />
+			<Item Name="Columns.UsrClosedWonCount.Caption" Value="UsrClosedWonCount" />
+			<Item Name="Columns.UsrConversionRate.Caption" Value="UsrConversionRate" />
+			<Item Name="Columns.UsrTotalOpportunititesCount.Caption" Value="UsrTotalOpportunititesCount" />
+			<Item Name="Columns.UsrvwId.Caption" Value="UsrvwId" />
+			<Item Name="EventsProcessSchema.Caption" Value="Business process" />
+		</Items>
+	</Group>
+</Resources>

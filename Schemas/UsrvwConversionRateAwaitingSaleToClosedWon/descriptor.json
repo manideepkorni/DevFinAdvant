@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "f2ff68f8-9091-470e-a1ef-e3662fe4d1ed",
+    "Name": "UsrvwConversionRateAwaitingSaleToClosedWon",
+    "ModifiedOnUtc": "\/Date(1671773318000)\/",
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "UsrvwConversionRateAwaitingSaleToClosedWon",
+    "DependsOn": []
+  }
+}

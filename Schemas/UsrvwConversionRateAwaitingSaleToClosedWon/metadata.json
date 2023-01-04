@@ -1,0 +1,95 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "EntitySchemaManager",
+      "UId": "f2ff68f8-9091-470e-a1ef-e3662fe4d1ed",
+      "A2": "UsrvwConversionRateAwaitingSaleToClosedWon",
+      "A5": "c9956c2f-958d-4569-8f83-db17a7d46eef",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "6a8a04d4-3f0d-63c0-c29c-a44ce39bbb86",
+      "B8": "8.0.3.2908",
+      "EG1": {
+        "UId": "5cb90397-dec6-4d0d-a154-7b6353212e74",
+        "A2": "UsrEntity_7f98dd8EventsProcess",
+        "A5": "c9956c2f-958d-4569-8f83-db17a7d46eef",
+        "B1": [],
+        "B2": [],
+        "B3": [],
+        "B8": "8.0.3.2908",
+        "FJ1": [],
+        "IJ3": false,
+        "BK8": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+        "BK15": [],
+        "BK37": {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+          "UId": "cdd58be7-2dba-4a5e-869b-1ad5d6d7513a",
+          "A2": "NotificationCaption",
+          "A3": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+          "A4": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+          "L1": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2",
+          "L8": {
+            "GS1": 3,
+            "GS2": "[#[PropertyValue:Caption]#]"
+          }
+        },
+        "BK1": "FFFFFFFF",
+        "BK2": "FFBBBBBB",
+        "BK3": [],
+        "BK5": [],
+        "BK4": [],
+        "BK9": [],
+        "BK10": true,
+        "BK34": "null",
+        "Labels": [],
+        "BK24": [],
+        "JC1": []
+      },
+      "D10": true,
+      "D8": "1b56b061-4e91-4974-9038-df8340e534f2",
+      "D29": "null",
+      "D30": "null",
+      "D31": "null",
+      "D3": "8962bc54-0f0b-ec4d-6972-a62ede33ce24",
+      "D2": [
+        {
+          "UId": "8962bc54-0f0b-ec4d-6972-a62ede33ce24",
+          "A2": "UsrvwId",
+          "A3": "f2ff68f8-9091-470e-a1ef-e3662fe4d1ed",
+          "A4": "f2ff68f8-9091-470e-a1ef-e3662fe4d1ed",
+          "A5": "c9956c2f-958d-4569-8f83-db17a7d46eef",
+          "S2": "23018567-a13c-4320-8687-fd6f9e3699bd"
+        },
+        {
+          "UId": "7b1bbdf0-729c-a132-80c9-afd2e1dd6578",
+          "A2": "UsrConversionRate",
+          "A3": "f2ff68f8-9091-470e-a1ef-e3662fe4d1ed",
+          "A4": "f2ff68f8-9091-470e-a1ef-e3662fe4d1ed",
+          "A5": "c9956c2f-958d-4569-8f83-db17a7d46eef",
+          "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+        },
+        {
+          "UId": "7d9abe9c-dda1-9138-9e86-a40e33b12b62",
+          "A2": "UsrTotalOpportunititesCount",
+          "A3": "f2ff68f8-9091-470e-a1ef-e3662fe4d1ed",
+          "A4": "f2ff68f8-9091-470e-a1ef-e3662fe4d1ed",
+          "A5": "c9956c2f-958d-4569-8f83-db17a7d46eef",
+          "S2": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+        },
+        {
+          "UId": "3869b08a-d8b2-839c-9d19-139b29415c50",
+          "A2": "UsrClosedWonCount",
+          "A3": "f2ff68f8-9091-470e-a1ef-e3662fe4d1ed",
+          "A4": "f2ff68f8-9091-470e-a1ef-e3662fe4d1ed",
+          "A5": "c9956c2f-958d-4569-8f83-db17a7d46eef",
+          "S2": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+        }
+      ],
+      "D6": [],
+      "D20": {
+        "A2": "UsrvwConversionRateAwaitingSaleToClosedWonEvents"
+      }
+    }
+  }
+}

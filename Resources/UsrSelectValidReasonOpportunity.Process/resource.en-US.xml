@@ -135,6 +135,8 @@
 			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
 			<Item Name="Parameters.RecordId.Caption" Value="RecordId" />
 			<Item Name="Parameters.StageValue.Caption" Value="StageValue" />
+			<Item Name="Parameters.StageValue.DisplayValue" Value="Closed Lost" />
+			<Item Name="Parameters.StageValue.Value" Value="Closed Lost" />
 		</Items>
 	</Group>
 </Resources>

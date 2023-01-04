@@ -1,4 +1,4 @@
-define("LeadPageV2", ["css!OpportunityCommonCSS"], function() {
+define("LeadPageV2", ["ProcessModuleUtilities","css!OpportunityCommonCSS"], function(ProcessModuleUtilities) {
 	return {
 		entitySchemaName: "Lead",
 		attributes: {
@@ -19,7 +19,14 @@ define("LeadPageV2", ["css!OpportunityCommonCSS"], function() {
                         methodName: "CalculateRevenue"
                     }
 				]
+			},
+			"Status":{
+				dependencies:[{
+					columns:["UsrLeadOpportunityStages"],
+					methodName: "selectValidReason"
+				}]
 			}
+			
 		},
 		modules: /**SCHEMA_MODULES*/{}/**SCHEMA_MODULES*/,
 		details: /**SCHEMA_DETAILS*/{
@@ -185,6 +192,67 @@ define("LeadPageV2", ["css!OpportunityCommonCSS"], function() {
 			getProbabilityMetricHint: function() {
 				return this.get("Resources.Strings.ProbabilityMetricHint");
 			},
+			
+			
+			
+			
+			// Multilead closure selectValidReason starts
+			selectValidReason:function(){
+		var moduleIds = this.getModuleIds();
+				moduleIds.push(this.sandbox.id);
+				var value = this.get("UsrLeadOpportunityStages");
+				var id = this.get("Id");				
+				if(value.displayValue == "Closed Lost" || value.value == "490654f5-f75a-45db-8b69-c74075706772")
+					{
+						
+						console.log("Inside closed lost");
+						//call valid reason - opportunity bp
+						var args = {
+							sysProcessName:"UsrSelectValidReasonOpportunity",
+							parameters: {
+								RecordId : id
+						}
+						};
+						
+				ProcessModuleUtilities.executeProcess(args); 
+						
+					/*	const runProcessRequest = Ext.Create("Terrasoft.RunProcessRequest",{
+						 "schemaName": "UsrSelectValidReasonOpportunity", 
+							  "schemaUId": "fb8033e7-8d00-433e-8113-ca6bc27a5132", 
+							"parameterValues": { 
+                        "RecordId": id
+               			     }, 
+						});
+					
+						runProcessRequest.execute(function(response){
+							
+							if(response.isSuccess()){
+								
+								Terrasoft.showInformation("Success");
+							}
+							
+						},this);*/
+						
+						
+						
+						
+					}
+				else if (value.displayValue == "Rejected" || value.value == "b5785719-5c53-4e96-8847-c6c0ff064043")
+					{
+						
+						console.log("Inside rejected");
+						var leadargs = {
+							sysProcessName:"UsrSelectValidReason",
+							parameters: {
+								RecordId:id
+						}
+						};
+						 ProcessModuleUtilities.executeProcess(leadargs);
+					}
+				
+				
+				}
+			
 		},
 		dataModels: /**SCHEMA_DATA_MODELS*/{}/**SCHEMA_DATA_MODELS*/,
 		diff: /**SCHEMA_DIFF*/[

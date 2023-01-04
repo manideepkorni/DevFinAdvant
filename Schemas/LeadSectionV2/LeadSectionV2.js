@@ -49,6 +49,8 @@ define("LeadSectionV2", ["ProcessModuleUtilities","AccountSectionV2Resources", "
 			}
  
 		]/**SCHEMA_DIFF*/,
+		
+	
 		methods: {
 			getGridDataColumns: function () {
 				var gridDataColumns = this.callParent(arguments);
@@ -102,7 +104,9 @@ define("LeadSectionV2", ["ProcessModuleUtilities","AccountSectionV2Resources", "
 				var showQualifyButton = false; //set show/hide conditions
 				this.set("LeadManagementButtonVisible", showQualifyButton);
 			},
-			getSectionActions: function () {
+			
+			//Add button to action menu
+		getSectionActions: function () {
 				var actionMenuItems = this.callParent(arguments);
 				actionMenuItems.addItem(this.getButtonMenuSeparator());
 
@@ -114,8 +118,47 @@ define("LeadSectionV2", ["ProcessModuleUtilities","AccountSectionV2Resources", "
 					"Visible": true
 
 				}));
+			actionMenuItems.addItem(this.getButtonMenuSeparator());
+				
+				actionMenuItems.addItem(this.getButtonMenuItem({
+					"Caption": "Multple lead closure",
+					"Click": {
+						"bindTo": "MultipleLeadClosure"
+					},
+					"Visible": true
+
+				}));
 				return actionMenuItems;
 			},
+			//MultipleLeadClosure Starts here
+			MultipleLeadClosure: function(){
+					var selectedRows = this.get("SelectedRows");
+				var item = this.getActiveRow();
+				if(selectedRows.length > 0){
+				var selectedLeads = JSON.stringify(selectedRows);					
+					var args1 = {
+						sysProcessName: "UsrMultipleLeadClosure",
+						parameters: {
+							LeadList: selectedLeads
+						}
+					};
+					ProcessModuleUtilities.executeProcess(args1);
+				}
+				else if(item ){
+					var LeadId = item.get("Id");
+					var args = {
+						sysProcessName: "UsrMultipleLeadClosure",
+						parameters: {
+							SingleLeadId: LeadId
+						}
+					};
+					ProcessModuleUtilities.executeProcess(args);
+				}
+				
+				
+			},
+			//MultipleLeadClosure ends here
+			//Selection Dialog Starts
 			showselectiontDialog : function(){
 				var selectedRows = this.get("SelectedRows");
 				var item = this.getActiveRow();
@@ -139,7 +182,9 @@ define("LeadSectionV2", ["ProcessModuleUtilities","AccountSectionV2Resources", "
 					};
 					ProcessModuleUtilities.executeProcess(args);
 				}
-			}
+			},
+			
+			
 		}
 	};
 });

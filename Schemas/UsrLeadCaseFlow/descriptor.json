@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "b204ee38-58bd-4669-a296-39f097a2fe41",
     "Name": "UsrLeadCaseFlow",
-    "ModifiedOnUtc": "\/Date(1667981544000)\/",
+    "ModifiedOnUtc": "\/Date(1672651473000)\/",
     "ManagerName": "DcmSchemaManager",
     "Caption": "Lead Flow",
     "DependsOn": []
