@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d9aab5c3-15aa-47af-b008-c6ccc65654c3",
+    "Name": "UsrVwConversionRatePerRep",
+    "ModifiedOnUtc": "\/Date(1673947624000)\/",
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "UsrVwConversionRatePerRep",
+    "DependsOn": []
+  }
+}

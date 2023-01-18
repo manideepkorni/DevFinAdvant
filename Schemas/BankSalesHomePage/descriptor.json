@@ -2,14 +2,13 @@
   "Descriptor": {
     "UId": "ce7f58f5-080c-4ecb-928d-4992bcdecb51",
     "Name": "BankSalesHomePage",
-    "ModifiedOnUtc": "\/Date(1671429949000)\/",
+    "ModifiedOnUtc": "\/Date(1673527267000)\/",
     "Parent": {
       "UId": "18fa404a-272c-4149-bbf1-47769211557e",
       "Name": "BankSalesHomePage"
     },
     "ExtendParent": true,
     "ManagerName": "ClientUnitSchemaManager",
-    "Caption": "Bank sales homepage",
-    "DependsOn": []
+    "Caption": "Bank sales homepage"
   }
 }

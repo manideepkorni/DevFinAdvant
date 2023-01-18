@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="UsrVwConversionRatePerRep" />
+			<Item Name="Columns.UsrConversionRate.Caption" Value="Conversion Rate" />
+			<Item Name="Columns.UsrId.Caption" Value="UsrId" />
+			<Item Name="Columns.UsrOwnerId.Caption" Value="Owner" />
+			<Item Name="Columns.UsrOwnerName.Caption" Value="Owner Name" />
+			<Item Name="Columns.UsrTotalCLosedWon.Caption" Value="Total Closed Won" />
+			<Item Name="Columns.UsrTotalLeads.Caption" Value="Total Leads" />
+			<Item Name="EventsProcessSchema.Caption" Value="Business process" />
+		</Items>
+	</Group>
+</Resources>

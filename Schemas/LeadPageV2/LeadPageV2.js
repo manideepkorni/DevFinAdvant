@@ -1056,6 +1056,23 @@ define("LeadPageV2", ["ProcessModuleUtilities","css!OpportunityCommonCSS"], func
 				"index": 18
 			},
 			{
+				"operation": "insert",
+				"name": "AnnualRevenuec8a9e32a-1b66-495f-a349-bee4944640c7",
+				"values": {
+					"layout": {
+						"colSpan": 12,
+						"rowSpan": 1,
+						"column": 0,
+						"row": 9,
+						"layoutName": "LeadPageDealInformationBlock"
+					},
+					"bindTo": "AnnualRevenue"
+				},
+				"parentName": "LeadPageDealInformationBlock",
+				"propertyName": "items",
+				"index": 19
+			},
+			{
 				"operation": "merge",
 				"name": "ESNTab",
 				"values": {

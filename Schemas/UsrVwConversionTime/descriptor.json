@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "65b15756-c16c-4626-a5b8-a2f1a70f0c51",
+    "Name": "UsrVwConversionTime",
+    "ModifiedOnUtc": "\/Date(1673948254000)\/",
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Conversion Time",
+    "DependsOn": []
+  }
+}

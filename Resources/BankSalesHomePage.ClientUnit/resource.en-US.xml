@@ -9,8 +9,8 @@
 			<Item Name="LocalizableStrings.ChartWidget_06e2hn7_xAxis.Value" Value="Month" />
 			<Item Name="LocalizableStrings.ChartWidget_06e2hn7_yAxis.Value" Value="Probability Count" />
 			<Item Name="LocalizableStrings.ChartWidget_2dr2bmh_series_0.Value" Value="Leads and Opportunities" />
-			<Item Name="LocalizableStrings.ChartWidget_2dr2bmh_title.Value" Value="Monthly Opportunity PipeLine" />
-			<Item Name="LocalizableStrings.ChartWidget_7y9jnfz_series_0.Value" Value="Leads and Opportunities" />
+			<Item Name="LocalizableStrings.ChartWidget_2dr2bmh_title.Value" Value="Monthly Opportunity Pipeline" />
+			<Item Name="LocalizableStrings.ChartWidget_7y9jnfz_series_0.Value" Value="Total amount" />
 			<Item Name="LocalizableStrings.ChartWidget_7y9jnfz_title.Value" Value="Pipeline (UK)" />
 			<Item Name="LocalizableStrings.ChartWidget_81c4ofw_series_0.Value" Value="Probabillty Count" />
 			<Item Name="LocalizableStrings.ChartWidget_81c4ofw_title.Value" Value="Probability Count" />
@@ -30,7 +30,7 @@
 			<Item Name="LocalizableStrings.ChartWidget_r0vreab_yAxis.Value" Value="Number" />
 			<Item Name="LocalizableStrings.ChartWidget_xbnyyki_series_0.Value" Value="Leads and Opportunities" />
 			<Item Name="LocalizableStrings.ChartWidget_xbnyyki_title.Value" Value="Lead opportunity Stages (UK)" />
-			<Item Name="LocalizableStrings.ChartWidget_y8bucxe_series_0.Value" Value="Leads and Opportunities" />
+			<Item Name="LocalizableStrings.ChartWidget_y8bucxe_series_0.Value" Value="Total amount" />
 			<Item Name="LocalizableStrings.ChartWidget_y8bucxe_title.Value" Value="Pipeline (EU)" />
 			<Item Name="LocalizableStrings.FunnelWidget_m476y60_title.Value" Value="New pipeline" />
 			<Item Name="LocalizableStrings.IndicatorWidget_1e0045y_template.Value" Value="{0}" />
@@ -38,7 +38,7 @@
 			<Item Name="LocalizableStrings.IndicatorWidget_1mn6a0h_template.Value" Value="{0}" />
 			<Item Name="LocalizableStrings.IndicatorWidget_1mn6a0h_title.Value" Value="Total Number of leads" />
 			<Item Name="LocalizableStrings.IndicatorWidget_4rodscr_template.Value" Value="{0}" />
-			<Item Name="LocalizableStrings.IndicatorWidget_4rodscr_title.Value" Value="Total Amount" />
+			<Item Name="LocalizableStrings.IndicatorWidget_4rodscr_title.Value" Value="Total Pipeline Amount $ value" />
 			<Item Name="LocalizableStrings.IndicatorWidget_awj45wc_template.Value" Value="{0}" />
 			<Item Name="LocalizableStrings.IndicatorWidget_awj45wc_title.Value" Value="Opportunity Count(UK)" />
 			<Item Name="LocalizableStrings.IndicatorWidget_pd3nz3g_template.Value" Value="{0}" />

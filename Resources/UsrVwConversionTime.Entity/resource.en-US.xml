@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Conversion Time" />
+			<Item Name="Columns.UsrGreaterThanOneMonth.Caption" Value="Greater than one month" />
+			<Item Name="Columns.UsrInOneMonth.Caption" Value="In one month" />
+			<Item Name="Columns.UsrInOneWeeek.Caption" Value="In one Week" />
+			<Item Name="Columns.UsrVwId.Caption" Value="Id" />
+			<Item Name="Columns.UsrWithin3Days.Caption" Value="Within 3 days" />
+			<Item Name="EventsProcessSchema.Caption" Value="Business process" />
+		</Items>
+	</Group>
+</Resources>

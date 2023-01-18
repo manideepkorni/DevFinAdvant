@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "54625cef-70a0-0b55-a167-bbd0c7450878",
+    "Name": "UsrVwConversionRatePerRep",
+    "DBEngineType": 2,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1673947895000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}
